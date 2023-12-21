@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_sea_website=self.webpackChunk_sea_website||[]).push([[1948],{528:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/sea-project-website/blog/tags/facebook","allTagsPath":"/sea-project-website/blog/tags","count":1,"unlisted":false}')}}]);
