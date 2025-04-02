@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksea_project_website=self.webpackChunksea_project_website||[]).push([[4760],{2280:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/sea-project-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

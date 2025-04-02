@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksea_project_website=self.webpackChunksea_project_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/sea-project-website/blog","blogTitle":"Blog","authorsListPath":"/sea-project-website/blog/authors"}')}}]);
